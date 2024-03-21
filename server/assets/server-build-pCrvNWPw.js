@@ -6969,9 +6969,9 @@ const styles$i = {
   sidebarImages: sidebarImages$5,
   sidebarImage: sidebarImage$5
 };
-const Earth$4 = lazy(() => import("./earth-CYHI2Xhc.js").then((module) => ({ default: module.Earth })));
+const Earth$4 = lazy(() => import("./earth-DXXb4-HK.js").then((module) => ({ default: module.Earth })));
 const EarthSection$4 = lazy(
-  () => import("./earth-CYHI2Xhc.js").then((module) => ({ default: module.EarthSection }))
+  () => import("./earth-DXXb4-HK.js").then((module) => ({ default: module.EarthSection }))
 );
 const title$a = "Netflix";
 const description$8 = "Ce projet a été réalisé avec un client réel qui est une application permettant de mettre en relation des pratiquants une même activité physique, pour pouvoir trouver un lieu ou unc coach. Nous avons dû créer un site internet.";
@@ -7457,9 +7457,9 @@ const styles$h = {
   sidebarImages: sidebarImages$4,
   sidebarImage: sidebarImage$4
 };
-const Earth$3 = lazy(() => import("./earth-0F3JgUiz.js").then((module) => ({ default: module.Earth })));
+const Earth$3 = lazy(() => import("./earth-DPAecCTf.js").then((module) => ({ default: module.Earth })));
 const EarthSection$3 = lazy(
-  () => import("./earth-0F3JgUiz.js").then((module) => ({ default: module.EarthSection }))
+  () => import("./earth-DPAecCTf.js").then((module) => ({ default: module.EarthSection }))
 );
 const title$8 = "Flyers";
 const description$6 = "Ce projet a été réalisé avec un client réel qui est une application permettant de mettre en relation des pratiquants une même activité physique, pour pouvoir trouver un lieu ou unc coach. Nous avons dû créer un site internet.";
@@ -7957,9 +7957,9 @@ const styles$f = {
   sidebarImages: sidebarImages$2,
   sidebarImage: sidebarImage$2
 };
-const Earth$2 = lazy(() => import("./earth-DPAecCTf.js").then((module) => ({ default: module.Earth })));
+const Earth$2 = lazy(() => import("./earth-CYHI2Xhc.js").then((module) => ({ default: module.Earth })));
 const EarthSection$2 = lazy(
-  () => import("./earth-DPAecCTf.js").then((module) => ({ default: module.EarthSection }))
+  () => import("./earth-CYHI2Xhc.js").then((module) => ({ default: module.EarthSection }))
 );
 const title$6 = "Snake";
 const description$4 = "Ce projet a été réalisé avec un client réel qui est une application permettant de mettre en relation des pratiquants une même activité physique, pour pouvoir trouver un lieu ou unc coach. Nous avons dû créer un site internet.";
@@ -8782,9 +8782,9 @@ const styles$d = {
   sidebarImages,
   sidebarImage
 };
-const Earth = lazy(() => import("./earth-DXXb4-HK.js").then((module) => ({ default: module.Earth })));
+const Earth = lazy(() => import("./earth-0F3JgUiz.js").then((module) => ({ default: module.Earth })));
 const EarthSection = lazy(
-  () => import("./earth-DXXb4-HK.js").then((module) => ({ default: module.EarthSection }))
+  () => import("./earth-0F3JgUiz.js").then((module) => ({ default: module.EarthSection }))
 );
 const title$4 = "Node";
 const description$2 = "Ce projet a été réalisé avec un client réel qui est une application permettant de mettre en relation des pratiquants une même activité physique, pour pouvoir trouver un lieu ou unc coach. Nous avons dû créer un site internet.";
