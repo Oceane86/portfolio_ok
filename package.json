@@ -1,17 +1,18 @@
 {
   "name": "portfolio",
-  "homepage": "https://hamishw.com",
+  "homepage": "https://Oceane86.github.io/portfolio_ok",
   "description": "Portfolio site for Hamish Williams",
-  "repository": "https://github.com/HamishMW/portfolio.git",
-  "author": "Hamish Williams",
+  "repository": "https://github.com/Oceane86/portfolio_ok.git",
+  "author": "Océane Rakotomalala",
   "sideEffects": false,
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "npm run build",
     "build": "remix vite:build",
     "dev": "node ./scripts/dev.cjs && remix vite:dev",
     "start": "wrangler pages dev ./build/client",
     "postinstall": "node ./scripts/draco.cjs",
-    "deploy": "npm run build && wrangler pages deploy ./build/client --project-name portfolio",
     "dev:storybook": "storybook dev -p 6006",
     "build:storybook": "storybook build",
     "deploy:storybook": "wrangler pages deploy ./storybook-static --project-name portfolio-storybook --branch main"
