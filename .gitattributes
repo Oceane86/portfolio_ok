@@ -1,4 +1,0 @@
-app/assets/Demo-Netflix.mp4 filter=lfs diff=lfs merge=lfs -text
-app/assets/Calculatrice[[:space:]]Demo.mp4 filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.psd filter=lfs diff=lfs merge=lfs -text
